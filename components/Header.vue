@@ -33,9 +33,9 @@
               <li>
                 <NuxtLink to="/profil/guru" class="dropdown-item">Guru dan Staff</NuxtLink>
               </li>
-              <!-- <li>
+              <li>
                 <NuxtLink to="/profil/data" class="dropdown-item">Data</NuxtLink>
-              </li> -->
+              </li>
             </ul>
           </li>
           <li class="me-3">
