@@ -124,12 +124,14 @@
   <div class="page-container">
     
     <galeri />
+    <dataa />
 
   </div>
 </template>
 
 <script setup>
 import galeri from '~/pages/galeri/index.vue';
+import dataa from '~/pages/data/index.vue';
 
 
 import foto1 from '@/assets/berita/astra.jpg';
